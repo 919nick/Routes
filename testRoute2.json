@@ -1,0 +1,61 @@
+{
+  "routeName": "Matched Route",
+  "source": "gpx-osrm-match",
+  "totalMiles": 4.6,
+  "cues": [
+    {
+      "seq": 1,
+      "type": "depart",
+      "text": "Little Peak Creek Road",
+      "distFromPrev": 0,
+      "cumulative": 0,
+      "lat": 36.428139,
+      "lon": -81.343615
+    },
+    {
+      "seq": 2,
+      "type": "right",
+      "text": "Big Peak Creek Road",
+      "distFromPrev": 0.06,
+      "cumulative": 0.06,
+      "lat": 36.428621,
+      "lon": -81.342723
+    },
+    {
+      "seq": 3,
+      "type": "right",
+      "text": "Big Peak Creek Road",
+      "distFromPrev": 3.16,
+      "cumulative": 3.22,
+      "lat": 36.412695,
+      "lon": -81.308578
+    },
+    {
+      "seq": 4,
+      "type": "right",
+      "text": "Big Peak Creek Road",
+      "distFromPrev": 0.79,
+      "cumulative": 4.01,
+      "lat": 36.405036,
+      "lon": -81.310148
+    },
+    {
+      "seq": 5,
+      "type": "right",
+      "text": "NC 88",
+      "distFromPrev": 0.48,
+      "cumulative": 4.49,
+      "lat": 36.400381,
+      "lon": -81.305885
+    },
+    {
+      "seq": 6,
+      "type": "arrive",
+      "text": "Arrive",
+      "distFromPrev": 0.08,
+      "cumulative": 4.57,
+      "lat": 36.399949,
+      "lon": -81.307202
+    }
+  ]
+}

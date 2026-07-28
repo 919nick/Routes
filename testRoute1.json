@@ -1,0 +1,77 @@
+{
+  "routeName": "Matched Route",
+  "source": "gpx-osrm-match",
+  "totalMiles": 5,
+  "cues": [
+    {
+      "seq": 1,
+      "type": "depart",
+      "text": "Lake Brandt Road",
+      "distFromPrev": 0,
+      "cumulative": 0,
+      "lat": 36.196252,
+      "lon": -79.842239
+    },
+    {
+      "seq": 2,
+      "type": "left",
+      "text": "Turn left",
+      "distFromPrev": 0.22,
+      "cumulative": 0.22,
+      "lat": 36.199165,
+      "lon": -79.843722
+    },
+    {
+      "seq": 3,
+      "type": "right",
+      "text": "Turn right",
+      "compound": [
+        "Turn left onto NC 150"
+      ],
+      "distFromPrev": 0.13,
+      "cumulative": 0.35,
+      "lat": 36.199595,
+      "lon": -79.84564
+    },
+    {
+      "seq": 4,
+      "type": "right",
+      "text": "Summerfield Road",
+      "distFromPrev": 2.89,
+      "cumulative": 3.24,
+      "lat": 36.194085,
+      "lon": -79.894884
+    },
+    {
+      "seq": 5,
+      "type": "left",
+      "text": "Turn left",
+      "compound": [
+        "Turn right onto Shadyside Drive",
+        "Turn left onto Pleasant Ridge Road"
+      ],
+      "distFromPrev": 0.44,
+      "cumulative": 3.68,
+      "lat": 36.197728,
+      "lon": -79.901391
+    },
+    {
+      "seq": 6,
+      "type": "right",
+      "text": "Bunch Road",
+      "distFromPrev": 1.02,
+      "cumulative": 4.7,
+      "lat": 36.18411,
+      "lon": -79.903061
+    },
+    {
+      "seq": 7,
+      "type": "arrive",
+      "text": "Arrive",
+      "distFromPrev": 0.25,
+      "cumulative": 4.96,
+      "lat": 36.181355,
+      "lon": -79.905965
+    }
+  ]
+}
