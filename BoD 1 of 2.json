@@ -1,0 +1,144 @@
+{
+  "routeName": "Back Of The Dragon Day Loop",
+  "source": "gpx-osrm-match",
+  "totalMiles": 176.2,
+  "cues": [
+    {
+      "seq": 1,
+      "type": "left",
+      "text": "West Pine Street/NC 89",
+      "distFromPrev": 74.86,
+      "cumulative": 74.86,
+      "lat": 36.483797,
+      "lon": -80.756727
+    },
+    {
+      "seq": 2,
+      "type": "left",
+      "text": "NC 18",
+      "distFromPrev": 11.89,
+      "cumulative": 86.75,
+      "lat": 36.557438,
+      "lon": -80.898847
+    },
+    {
+      "seq": 3,
+      "type": "right",
+      "text": "US 21",
+      "distFromPrev": 15.46,
+      "cumulative": 102.21,
+      "lat": 36.505926,
+      "lon": -81.12024
+    },
+    {
+      "seq": 4,
+      "type": "right",
+      "text": "NC 93",
+      "distFromPrev": 3.77,
+      "cumulative": 105.98,
+      "lat": 36.528519,
+      "lon": -81.177317
+    },
+    {
+      "seq": 5,
+      "type": "right",
+      "text": "NC 93",
+      "distFromPrev": 9.35,
+      "cumulative": 115.33,
+      "lat": 36.567587,
+      "lon": -81.305848
+    },
+    {
+      "seq": 6,
+      "type": "right",
+      "text": "US 58",
+      "distFromPrev": 1.44,
+      "cumulative": 116.77,
+      "lat": 36.586052,
+      "lon": -81.314762
+    },
+    {
+      "seq": 7,
+      "type": "left",
+      "text": "Fox Creek Road/SR 678",
+      "distFromPrev": 2.4,
+      "cumulative": 119.17,
+      "lat": 36.609264,
+      "lon": -81.294096
+    },
+    {
+      "seq": 8,
+      "type": "right",
+      "text": "Flat Ridge Road/SR 658",
+      "distFromPrev": 5.19,
+      "cumulative": 124.36,
+      "lat": 36.66095,
+      "lon": -81.337816
+    },
+    {
+      "seq": 9,
+      "type": "left",
+      "text": "Flat Ridge Road/SR 601",
+      "distFromPrev": 4.16,
+      "cumulative": 128.52,
+      "lat": 36.703006,
+      "lon": -81.341315
+    },
+    {
+      "seq": 10,
+      "type": "right",
+      "text": "VA 16",
+      "distFromPrev": 7.71,
+      "cumulative": 136.23,
+      "lat": 36.775634,
+      "lon": -81.412489
+    },
+    {
+      "seq": 11,
+      "type": "right",
+      "text": "US 11/VA 16",
+      "distFromPrev": 10.2,
+      "cumulative": 146.43,
+      "lat": 36.834523,
+      "lon": -81.516101
+    },
+    {
+      "seq": 12,
+      "type": "left",
+      "text": "Chatham Hill Road/SR 700",
+      "distFromPrev": 0.15,
+      "cumulative": 146.58,
+      "lat": 36.836601,
+      "lon": -81.515774,
+      "note": "Btw White Bldgs"
+    },
+    {
+      "seq": 13,
+      "type": "right",
+      "text": "Louise Avenue",
+      "distFromPrev": 0.24,
+      "cumulative": 146.82,
+      "lat": 36.839604,
+      "lon": -81.517671
+    },
+    {
+      "seq": 14,
+      "type": "left",
+      "text": "VA 16",
+      "distFromPrev": 1.33,
+      "cumulative": 148.14,
+      "lat": 36.858127,
+      "lon": -81.514238
+    },
+    {
+      "seq": 15,
+      "type": "right",
+      "text": "US 16",
+      "distFromPrev": 28.09,
+      "cumulative": 176.23,
+      "lat": 37.098894,
+      "lon": -81.558326,
+      "note": "Stop sign"
+    }
+  ]
+}
